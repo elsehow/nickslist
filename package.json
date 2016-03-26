@@ -1,6 +1,6 @@
 {
   "name": "halite",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a small wrapper for encrypting and decrypting strings with tweetnacl",
   "main": "index.js",
   "scripts": {
@@ -12,11 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/elsehow/halite.git"
+    "url": "git+ssh://git@github.com/elsehow/halite.git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/elsehow/halite#readme",
+  "homepage": "https://github.com/elsehow/halite",
   "license": "BSD-2-Clause",
   "dependencies": {
     "tweetnacl": "^0.14.1",
